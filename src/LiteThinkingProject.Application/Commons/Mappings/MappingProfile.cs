@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using LiteThinkingProject.Application.UseCase.Activity.Queries.ActivityGetAllQuery;
+using LiteThinkingProject.Domain.Entities;
 
 namespace LiteThinkingProject.Application.Commons.Mappings
 {
@@ -6,7 +8,8 @@ namespace LiteThinkingProject.Application.Commons.Mappings
     {
         public MappingProfile()
         {
-            //this.CreateMap<CreateTransactionCommandModel, CreateTransactionCommand>();
+            CreateMap<Activity, ActivityGetAllQueryValueDto>()
+           .ForMember(dest => dest.StateText, opt => opt.MapFrom(src => src.State ? "Completado" : "No completado"));
         }
     }
 }

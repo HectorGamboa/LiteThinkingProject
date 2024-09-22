@@ -15,8 +15,4 @@
     <ProjectReference Include="..\LiteThinkingProject.Shared\LiteThinkingProject.Shared.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>

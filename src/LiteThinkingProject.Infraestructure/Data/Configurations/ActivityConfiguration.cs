@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace LiteThinkingProject.Infraestructure.Data.Configurations
 {
-    public class TransaccionConfiguration : IEntityTypeConfiguration<Activity>
+    public class ActivityConfiguration : IEntityTypeConfiguration<Activity>
     {
         public void Configure(EntityTypeBuilder<Activity> builder)
         {

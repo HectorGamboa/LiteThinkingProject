@@ -19,11 +19,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="UseCase\Task\Commands\TaskDeleteCommand\" />
-    <Folder Include="UseCase\Task\Commands\TaskUpdateCommand\" />
-    <Folder Include="UseCase\Task\Commands\TaskCreateCommand\" />
-    <Folder Include="UseCase\Task\Queries\TaskGetAllQuery\" />
-    <Folder Include="UseCase\Task\Queries\TaskGetByIdQuery\" />
+    <Folder Include="UseCase\Activity\Commands\TaskDeleteCommand\" />
+    <Folder Include="UseCase\Activity\Commands\TaskUpdateCommand\" />
+    <Folder Include="UseCase\Activity\Commands\TaskCreateCommand\" />
+    <Folder Include="UseCase\Activity\Queries\TaskGetByIdQuery\" />
   </ItemGroup>
 
 </Project>

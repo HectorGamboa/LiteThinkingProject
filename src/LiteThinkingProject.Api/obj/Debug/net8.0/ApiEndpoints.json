@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "ContainingType": "LiteThinkingProject.Api.Controllers.ActivityController",
+    "Method": "GetAll",
+    "RelativePath": "api/Activity/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
