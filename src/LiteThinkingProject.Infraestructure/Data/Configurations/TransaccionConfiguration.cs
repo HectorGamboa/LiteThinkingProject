@@ -4,9 +4,9 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace LiteThinkingProject.Infraestructure.Data.Configurations
 {
-    public class TransaccionConfiguration : IEntityTypeConfiguration<Transaction>
+    public class TransaccionConfiguration : IEntityTypeConfiguration<Activity>
     {
-        public void Configure(EntityTypeBuilder<Transaction> builder)
+        public void Configure(EntityTypeBuilder<Activity> builder)
         {
             builder.Property(t => t.Id)
                    .IsRequired();

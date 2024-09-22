@@ -15,11 +15,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="UseCase\Transacctions\" />
+    <ProjectReference Include="..\LiteThinkingProject.Domain\LiteThinkingProject.Domain.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LiteThinkingProject.Domain\LiteThinkingProject.Domain.csproj" />
+    <Folder Include="UseCase\Task\Commands\TaskDeleteCommand\" />
+    <Folder Include="UseCase\Task\Commands\TaskUpdateCommand\" />
+    <Folder Include="UseCase\Task\Commands\TaskCreateCommand\" />
+    <Folder Include="UseCase\Task\Queries\TaskGetAllQuery\" />
+    <Folder Include="UseCase\Task\Queries\TaskGetByIdQuery\" />
   </ItemGroup>
 
 </Project>
