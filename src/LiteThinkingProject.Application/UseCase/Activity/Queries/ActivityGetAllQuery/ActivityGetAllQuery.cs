@@ -10,7 +10,8 @@ namespace LiteThinkingProject.Application.UseCase.Activity.Queries.ActivityGetAl
 
 public class ActivityGetAllQuery : IRequest<Result<ActivityGetAllQueryDto>>
 {
-    public class ActivityGetAllQueryHandler : UseCaseHandler, IRequestHandler<ActivityGetAllQuery, Result<ActivityGetAllQueryDto>>
+    public class ActivityGetAllQueryHandler : UseCaseHandler, IRequestHandler<ActivityGetAllQuery,
+        Result<ActivityGetAllQueryDto>>
     {
         private readonly IRepository<LTPDomain.Activity> _repository;
         private readonly IMapper _mapper;

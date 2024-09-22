@@ -22,7 +22,6 @@
     <Folder Include="UseCase\Activity\Commands\TaskDeleteCommand\" />
     <Folder Include="UseCase\Activity\Commands\TaskUpdateCommand\" />
     <Folder Include="UseCase\Activity\Commands\TaskCreateCommand\" />
-    <Folder Include="UseCase\Activity\Queries\TaskGetByIdQuery\" />
   </ItemGroup>
 
 </Project>

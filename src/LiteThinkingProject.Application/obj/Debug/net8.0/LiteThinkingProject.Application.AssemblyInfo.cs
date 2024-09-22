@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LiteThinkingProject.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9486ebec2689882d3bc41b8624694ee6a8fe63e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4be83930f81165e840f8ba5037065b43a3d44d3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("LiteThinkingProject.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LiteThinkingProject.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

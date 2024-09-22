@@ -1,4 +1,5 @@
 ﻿using LiteThinkingProject.Application.UseCase.Activity.Queries.ActivityGetAllQuery;
+using LiteThinkingProject.Application.UseCase.Activity.Queries.ActivityGetByIdQuery;
 using Microsoft.AspNetCore.Mvc;
 
 namespace LiteThinkingProject.Api.Controllers
@@ -13,6 +14,15 @@ namespace LiteThinkingProject.Api.Controllers
         public async Task<IActionResult> GetAll()
         {
             var query = new ActivityGetAllQuery();
+            var result = await this.Mediator.Send(query);
+            return this.FromResult(result);
+        }
+
+        [HttpGet]
+        [Route("GetById")]
+        public async Task<IActionResult> GetById(ActivityGetByIdQueryModel model)
+        {
+            var query = this.Mapper.Map<ActivityGetByIdQuery>(model);
             var result = await this.Mediator.Send(query);
             return this.FromResult(result);
         }
