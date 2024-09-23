@@ -34,9 +34,9 @@
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Clase7\\LiteThinkingProject\\src\\LiteThinkingProject.Application\\Commons\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "src\\LiteThinkingProject.Application\\Commons\\Mappings\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Clase7\\LiteThinkingProject\\src\\LiteThinkingProject.Application\\Commons\\Mappings\\MappingProfile.cs*",
-              "RelativeToolTip": "src\\LiteThinkingProject.Application\\Commons\\Mappings\\MappingProfile.cs*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAwAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Clase7\\LiteThinkingProject\\src\\LiteThinkingProject.Application\\Commons\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "src\\LiteThinkingProject.Application\\Commons\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T00:00:28.817Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "src\\LiteThinkingProject.Api\\Controllers\\ActivityController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T23:55:13.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T23:55:13.259Z"
             }
           ]
         }
