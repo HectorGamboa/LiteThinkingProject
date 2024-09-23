@@ -18,10 +18,4 @@
     <ProjectReference Include="..\LiteThinkingProject.Domain\LiteThinkingProject.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="UseCase\Activity\Commands\TaskDeleteCommand\" />
-    <Folder Include="UseCase\Activity\Commands\TaskUpdateCommand\" />
-    <Folder Include="UseCase\Activity\Commands\TaskCreateCommand\" />
-  </ItemGroup>
-
 </Project>

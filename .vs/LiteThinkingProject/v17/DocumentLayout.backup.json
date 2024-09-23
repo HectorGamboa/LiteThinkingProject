@@ -9,14 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{42282985-70E2-4475-A49A-8DF9134C3475}|src\\LiteThinkingProject.Api\\LiteThinkingProject.Api.csproj|c:\\users\\hecto\\desktop\\curso_microservicios_net\\clase7\\litethinkingproject\\src\\litethinkingproject.api\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42282985-70E2-4475-A49A-8DF9134C3475}|src\\LiteThinkingProject.Api\\LiteThinkingProject.Api.csproj|solutionrelative:src\\litethinkingproject.api\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3124A5B4-5AF3-41A2-8978-4611B4CCEBA2}|src\\LiteThinkingProject.Application\\LiteThinkingProject.Application.csproj|c:\\users\\hecto\\desktop\\curso_microservicios_net\\clase7\\litethinkingproject\\src\\litethinkingproject.application\\usecase\\activity\\queries\\activitygetbyidquery\\activitygetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3124A5B4-5AF3-41A2-8978-4611B4CCEBA2}|src\\LiteThinkingProject.Application\\LiteThinkingProject.Application.csproj|solutionrelative:src\\litethinkingproject.application\\usecase\\activity\\queries\\activitygetbyidquery\\activitygetbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3124A5B4-5AF3-41A2-8978-4611B4CCEBA2}|src\\LiteThinkingProject.Application\\LiteThinkingProject.Application.csproj|c:\\users\\hecto\\desktop\\curso_microservicios_net\\clase7\\litethinkingproject\\src\\litethinkingproject.application\\usecase\\activity\\queries\\activitygetallquery\\activitygetallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3124A5B4-5AF3-41A2-8978-4611B4CCEBA2}|src\\LiteThinkingProject.Application\\LiteThinkingProject.Application.csproj|solutionrelative:src\\litethinkingproject.application\\usecase\\activity\\queries\\activitygetallquery\\activitygetallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ActivityController.cs",
-              "DocumentMoniker": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Clase7\\LiteThinkingProject\\src\\LiteThinkingProject.Api\\Controllers\\ActivityController.cs",
-              "RelativeDocumentMoniker": "src\\LiteThinkingProject.Api\\Controllers\\ActivityController.cs",
-              "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Clase7\\LiteThinkingProject\\src\\LiteThinkingProject.Api\\Controllers\\ActivityController.cs",
-              "RelativeToolTip": "src\\LiteThinkingProject.Api\\Controllers\\ActivityController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T15:18:32.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Clase7\\LiteThinkingProject\\src\\LiteThinkingProject.Application\\Commons\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "src\\LiteThinkingProject.Application\\Commons\\Mappings\\MappingProfile.cs",
               "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Clase7\\LiteThinkingProject\\src\\LiteThinkingProject.Application\\Commons\\Mappings\\MappingProfile.cs*",
               "RelativeToolTip": "src\\LiteThinkingProject.Application\\Commons\\Mappings\\MappingProfile.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T15:14:03.013Z",
+              "WhenOpened": "2024-09-23T00:00:28.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ActivityGetAllQuery.cs",
-              "DocumentMoniker": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Clase7\\LiteThinkingProject\\src\\LiteThinkingProject.Application\\UseCase\\Activity\\Queries\\ActivityGetAllQuery\\ActivityGetAllQuery.cs",
-              "RelativeDocumentMoniker": "src\\LiteThinkingProject.Application\\UseCase\\Activity\\Queries\\ActivityGetAllQuery\\ActivityGetAllQuery.cs",
-              "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Clase7\\LiteThinkingProject\\src\\LiteThinkingProject.Application\\UseCase\\Activity\\Queries\\ActivityGetAllQuery\\ActivityGetAllQuery.cs",
-              "RelativeToolTip": "src\\LiteThinkingProject.Application\\UseCase\\Activity\\Queries\\ActivityGetAllQuery\\ActivityGetAllQuery.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ActivityController.cs",
+              "DocumentMoniker": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Clase7\\LiteThinkingProject\\src\\LiteThinkingProject.Api\\Controllers\\ActivityController.cs",
+              "RelativeDocumentMoniker": "src\\LiteThinkingProject.Api\\Controllers\\ActivityController.cs",
+              "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Clase7\\LiteThinkingProject\\src\\LiteThinkingProject.Api\\Controllers\\ActivityController.cs",
+              "RelativeToolTip": "src\\LiteThinkingProject.Api\\Controllers\\ActivityController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T15:01:45.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ActivityGetByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Clase7\\LiteThinkingProject\\src\\LiteThinkingProject.Application\\UseCase\\Activity\\Queries\\ActivityGetByIdQuery\\ActivityGetByIdQuery.cs",
-              "RelativeDocumentMoniker": "src\\LiteThinkingProject.Application\\UseCase\\Activity\\Queries\\ActivityGetByIdQuery\\ActivityGetByIdQuery.cs",
-              "ToolTip": "C:\\Users\\hecto\\Desktop\\Curso_MicroServicios_NET\\Clase7\\LiteThinkingProject\\src\\LiteThinkingProject.Application\\UseCase\\Activity\\Queries\\ActivityGetByIdQuery\\ActivityGetByIdQuery.cs",
-              "RelativeToolTip": "src\\LiteThinkingProject.Application\\UseCase\\Activity\\Queries\\ActivityGetByIdQuery\\ActivityGetByIdQuery.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAzwB0AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T14:50:11.32Z",
+              "WhenOpened": "2024-09-22T23:55:13.259Z",
               "EditorCaption": ""
             }
           ]

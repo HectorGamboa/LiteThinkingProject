@@ -1,6 +1,48 @@
 [
   {
     "ContainingType": "LiteThinkingProject.Api.Controllers.ActivityController",
+    "Method": "Create",
+    "RelativePath": "api/Activity/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "Title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LiteThinkingProject.Api.Controllers.ActivityController",
+    "Method": "Delete",
+    "RelativePath": "api/Activity/Delete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LiteThinkingProject.Api.Controllers.ActivityController",
     "Method": "GetAll",
     "RelativePath": "api/Activity/GetAll",
     "HttpMethod": "GET",
@@ -20,6 +62,37 @@
       {
         "Name": "Id",
         "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LiteThinkingProject.Api.Controllers.ActivityController",
+    "Method": "Update",
+    "RelativePath": "api/Activity/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "Title",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Description",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "State",
+        "Type": "System.Boolean",
         "IsRequired": false
       }
     ],
