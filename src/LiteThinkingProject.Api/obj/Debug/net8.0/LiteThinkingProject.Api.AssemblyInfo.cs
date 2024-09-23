@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LiteThinkingProject.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d377afac53f7f4fbf71f6c93411ce9e7fb7108d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c066704f2600611173198aafbabba571f5136b57")]
 [assembly: System.Reflection.AssemblyProductAttribute("LiteThinkingProject.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LiteThinkingProject.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

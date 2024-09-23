@@ -1,0 +1,3 @@
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\publish\LiteThinkingProject.Domain.dll
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\publish\LiteThinkingProject.Domain.deps.json
+C:\Users\hecto\Desktop\Curso_MicroServicios_NET\Clase7\LiteThinkingProject\publish\LiteThinkingProject.Domain.pdb

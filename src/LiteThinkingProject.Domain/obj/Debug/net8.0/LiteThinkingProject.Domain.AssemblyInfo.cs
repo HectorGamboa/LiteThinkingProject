@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LiteThinkingProject.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9486ebec2689882d3bc41b8624694ee6a8fe63e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c066704f2600611173198aafbabba571f5136b57")]
 [assembly: System.Reflection.AssemblyProductAttribute("LiteThinkingProject.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LiteThinkingProject.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
